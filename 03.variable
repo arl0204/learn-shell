@@ -8,3 +8,6 @@ echo class name -$class
 
 DATE=2023-01-04
 echo hey ,today date is $DATE
+
+add=$((2+5))
+echo add -$add
