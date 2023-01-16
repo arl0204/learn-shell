@@ -3,5 +3,6 @@
 
 echo "*** hello world ***"
 
-red -31 -echo -e "\e[31mMESSAGE\[0m"
+
+ -echo -e "\e[31mMESSAGE\e[0m"
 
