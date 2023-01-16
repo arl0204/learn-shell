@@ -4,3 +4,7 @@ class=devops
 
 echo trainer name - $trainer
 echo class name -$class
+
+
+DATE=2023-01-04
+echo hey ,today date is $DATE
