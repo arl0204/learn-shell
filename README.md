@@ -1,7 +1,7 @@
 # learn-shell
 
-in this repo we will keep the shell scripting files
-
+in this repo we will keep the shell scripting files 
+hello
 
 shell topics :
 
