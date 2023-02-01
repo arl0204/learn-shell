@@ -15,3 +15,4 @@ echo ADD - $ADD
 
 ## Variable from command line
 echo b - $b
+
